@@ -111,10 +111,12 @@ li a:not(.active) {
     width: 250px;
     height: 250px;
     margin: 5px;
+    padding-left: 10px;
 }
 
 #infoimg2 {
     float: left;
+    padding-left: 10px;
 }
 
 #infotitel{
