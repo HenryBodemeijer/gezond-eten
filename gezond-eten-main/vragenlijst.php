@@ -46,7 +46,7 @@ if($score >7 && $score <12){
 }
 
 if($score >11 && $score <18){
-    echo"U score is erg gemmiddeld. <br> U bent niet erg gezond, maar ook niet erg ongezond u kunt nog altijd gezonder gaan leven";
+    echo"U score is erg gemmiddeld. <br> U bent niet erg gezond, maar ook niet erg ongezond. <br> U kunt nog altijd gezonder gaan leven";
 }
 
 if($score >17 && $score <21){
